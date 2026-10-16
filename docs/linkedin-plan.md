@@ -13,7 +13,7 @@ O progresso do projeto é registrado publicamente a cada sprint, sempre amarrado
 
 | # | Post | Gatilho | Status |
 | :---: | :--- | :--- | :---: |
-| **0** | Kickoff do projeto | Ao fechar Sprint 0 | ⏳ |
+| **0** | Kickoff do projeto | Ao fechar Sprint 0 | ✅ Publicado 2026-10-16 |
 | **1** | Rede e firewall no ar | Ao fechar Sprint 1 | — |
 | **2** | Hardening aplicado | Ao fechar Sprint 2 | — |
 | **3** | Identidade centralizada (IAM) | Ao fechar Sprint 3 | — |

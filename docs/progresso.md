@@ -4,7 +4,7 @@ Este documento serve como um registro histórico do andamento do InfraSec Lab, d
 
 | Sprint | Status | Data de conclusão | Principais aprendizados |
 | :--- | :---: | :---: | :--- |
-| **0 - Planejamento** | ✅ | 2026-10-15 | Estruturação de governança, configuração de repositório, definição de escopo, endereçamento de rede e topologia inicial. |
+| **0 - Planejamento** | ✅ | 2026-10-16 | Governança completa (branches, PR, templates, board); debug real de 6 problemas no repositório |
 | **1 - Rede e firewall** | ⏳ | — | — |
 | **2 - Servidores e hardening** | ⏳ | — | — |
 | **3 - IAM — Samba AD DC** | ⏳ | — | — |
